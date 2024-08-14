@@ -1,5 +1,5 @@
 - id: last_mod_on
-  translation: Ostatnio edytowano: {{ .Format "2006-01-02" }}
+  translation: Ostatnio edytowano {{ .Format "2006-01-02" }}
 - id: format_date
   translation: '{{ .Format "2006-01-02" }}'
 - id: format_date_tosec
