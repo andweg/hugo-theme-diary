@@ -1,0 +1,28 @@
+- id: last_mod_on
+  translation: Ostatnio edytowano: {{ .Format "2006-01-02" }}
+- id: format_date
+  translation: '{{ .Format "2006-01-02" }}'
+- id: format_date_tosec
+  translation: '{{ .Format "2006-01-02 15:04" }}'
+- id: next_link
+  translation: Następny
+- id: prev_link
+  translation: Poprzedni
+- id: no_newer_posts
+  translation: Brak nowszych wpisów.
+- id: no_older_posts
+  translation: Brak starszych wpisów.
+- id: comments_disabled
+  translation: Komentarze wyłączone.
+- id: comments_activate_js
+  translation: Aktywuj JavaScript aby wyświetlić komentarze.
+- id: hugo_theme
+  translation: Hugo Theme
+- id: ported_from
+  translation: Ported from
+- id: by
+  translation: by
+- id: draft
+  translation: SZKIC
+- id: toc_title
+  translation: KATALOG
